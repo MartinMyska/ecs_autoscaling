@@ -1,7 +1,5 @@
 variable "project_name" {}
 
-variable "environment" {}
-
 variable "cluster_name" {
   description = "Name of the cluster to enable autoscaling"
 }
